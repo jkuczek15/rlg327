@@ -11,5 +11,5 @@ I also included screenshots of application running on my phone for a quick idea 
 
 Also I haven't added the objects/inventory section of the dungeon yet because I haven't had enough time.
 
-The full .apk file has been built and is under /app/rlg327.apk
+The full .apk file has been built and is under /app/build/outputs/apk/rlg327.apk
 It can be quickly transferred onto an Android device and ran.
