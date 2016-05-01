@@ -1,0 +1,22 @@
+See file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniMips64ReleaseAllSharedLibraryHello-jniMainCpp/output.txt for all output for compileHello-jniMips64ReleaseAllSharedLibraryHello-jniMainCpp.
+compiling character.cpp successful.
+
+compiling object.cpp successful.
+
+compiling path.cpp successful.
+
+compiling jni_exports.cpp successful.
+
+compiling npc.cpp successful.
+
+compiling move.cpp successful.
+
+compiling dungeon_UI.cpp successful.
+
+compiling pc.cpp successful.
+
+compiling dungeon.cpp successful.
+
+compiling descriptions.cpp successful.
+
+Finished compileHello-jniMips64ReleaseAllSharedLibraryHello-jniMainCpp, see full log file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniMips64ReleaseAllSharedLibraryHello-jniMainCpp/output.txt.

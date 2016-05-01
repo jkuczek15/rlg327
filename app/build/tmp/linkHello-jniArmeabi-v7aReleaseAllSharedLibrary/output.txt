@@ -1,0 +1,4 @@
+See file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/linkHello-jniArmeabi-v7aReleaseAllSharedLibrary/output.txt for all output for linkHello-jniArmeabi-v7aReleaseAllSharedLibrary.
+linking libhello-jni.so successful.
+
+Finished linkHello-jniArmeabi-v7aReleaseAllSharedLibrary, see full log file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/linkHello-jniArmeabi-v7aReleaseAllSharedLibrary/output.txt.

@@ -1,0 +1,6 @@
+See file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniMipsDebugAllSharedLibraryHello-jniMainCpp/output.txt for all output for compileHello-jniMipsDebugAllSharedLibraryHello-jniMainCpp.
+compiling jni_exports.cpp successful.
+
+compiling descriptions.cpp successful.
+
+Finished compileHello-jniMipsDebugAllSharedLibraryHello-jniMainCpp, see full log file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniMipsDebugAllSharedLibraryHello-jniMainCpp/output.txt.

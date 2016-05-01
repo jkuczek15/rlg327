@@ -1,0 +1,6 @@
+See file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniArm64-v8aDebugAllSharedLibraryHello-jniMainCpp/output.txt for all output for compileHello-jniArm64-v8aDebugAllSharedLibraryHello-jniMainCpp.
+compiling jni_exports.cpp successful.
+
+compiling descriptions.cpp successful.
+
+Finished compileHello-jniArm64-v8aDebugAllSharedLibraryHello-jniMainCpp, see full log file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniArm64-v8aDebugAllSharedLibraryHello-jniMainCpp/output.txt.

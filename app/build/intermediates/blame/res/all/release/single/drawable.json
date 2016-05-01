@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/up_left.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/up_left.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/up_right.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/up_right.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/buttonshape.xml",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/down_right.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/down_right.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/down.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/down_left.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/down_left.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/left.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/black_circle.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/black_circle.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/up.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/intermediates/res/merged/all/release/drawable/right.png",
+        "source": "/home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/src/main/res/drawable/right.png"
+    }
+]

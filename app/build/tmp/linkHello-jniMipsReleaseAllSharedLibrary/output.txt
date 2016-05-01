@@ -1,0 +1,4 @@
+See file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/linkHello-jniMipsReleaseAllSharedLibrary/output.txt for all output for linkHello-jniMipsReleaseAllSharedLibrary.
+linking libhello-jni.so successful.
+
+Finished linkHello-jniMipsReleaseAllSharedLibrary, see full log file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/linkHello-jniMipsReleaseAllSharedLibrary/output.txt.

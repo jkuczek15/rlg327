@@ -1,0 +1,22 @@
+See file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniArm64-v8aReleaseAllSharedLibraryHello-jniMainCpp/output.txt for all output for compileHello-jniArm64-v8aReleaseAllSharedLibraryHello-jniMainCpp.
+compiling object.cpp successful.
+
+compiling character.cpp successful.
+
+compiling path.cpp successful.
+
+compiling move.cpp successful.
+
+compiling npc.cpp successful.
+
+compiling jni_exports.cpp successful.
+
+compiling dungeon_UI.cpp successful.
+
+compiling dungeon.cpp successful.
+
+compiling pc.cpp successful.
+
+compiling descriptions.cpp successful.
+
+Finished compileHello-jniArm64-v8aReleaseAllSharedLibraryHello-jniMainCpp, see full log file:///home/joeku/AndroidStudioProjects/kuczek_joseph.assignment-1.10/app/build/tmp/compileHello-jniArm64-v8aReleaseAllSharedLibraryHello-jniMainCpp/output.txt.
