@@ -1,6 +1,5 @@
 # rlg327
 
-=========
 I decided to attempt to create an Android mobile application for our RLG 327 game. I have had very little experience creating Android applications in the past so this is a first time thing for me. To start out I had to figure out a way to compile C++ code on an Android device. There is a library called NDK which contains all the tools required to implement C++ within the Android application. 
 
 The graphics and user interface for this assignment were mostly written in Java, however, Java needs to communicate with the C++ code in order for the program to work. 
